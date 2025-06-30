@@ -384,6 +384,9 @@ body{
     #text3_li1{
         transform: translate(15px,1px);
     }
+    #text5_li2{
+        transform: translate(-56.5px,3px);
+    }
     .list2_container{
         transform: translate(-31px,220px);
     }
